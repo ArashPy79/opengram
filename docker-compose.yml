@@ -1,0 +1,9 @@
+version: '3.3'
+services:
+  r33333:
+    container_name: v33
+    build: .
+    volumes:
+      - /root/app/opengram/:/opengram
+   
+    
