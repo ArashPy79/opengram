@@ -6,12 +6,6 @@ First, install the container on Mikrotik
 
 <br> 
 In the next step, enter these commands in the terminal
-<pre>
-  <code>
-    /tool fetch url="https://raw.githubusercontent.com/ArashPy79/opengram/main/opengram/setting.py" dst-path=opengram/setting.py
-    /tool fetch url="https://raw.githubusercontent.com/ArashPy79/opengram/main/opengram/vpnDB.db" dst-path=opengram/vpnDB.db.
-  </code>
-</pre>
 
 ```sh
 /tool fetch url="https://raw.githubusercontent.com/ArashPy79/opengram/main/opengram/setting.py" dst-path=opengram/setting.py
